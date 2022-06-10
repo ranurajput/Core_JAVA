@@ -1,4 +1,4 @@
-# KUP_Assignment_CoreJava
+# CoreJava
 
 Q1.Write a Java program to return true if a given string contain the string 'pop', but the middle 'o' also may other character.
  
